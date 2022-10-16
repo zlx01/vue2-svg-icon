@@ -91,6 +91,7 @@
         >
       </li>
     </ul>
+    <svg-icon icon-class="kiwi" />
   </div>
 </template>
 
