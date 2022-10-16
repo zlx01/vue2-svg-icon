@@ -1,5 +1,7 @@
 # vue2-svg-icon
 
+参考博文：https://juejin.cn/post/6844903517564436493
+
 ## Project setup
 ```
 npm install
