@@ -1,26 +1,9 @@
 # vue2-svg-icon
 
-参考博文：https://juejin.cn/post/6844903517564436493
-
-## Project setup
-```
-npm install
+```bash
+npm i -D svg-sprite-loader
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Reference
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* https://juejin.cn/post/6844903517564436493

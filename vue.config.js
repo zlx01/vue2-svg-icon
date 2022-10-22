@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: process.env.NODE_ENV === "production" ? "/vue2-svg-icon/" : "/",
   chainWebpack: (config) => {
     const svgRule = config.module.rule("svg"); // 找到 svg-loader
     svgRule.uses.clear(); // 清除已有 loader
