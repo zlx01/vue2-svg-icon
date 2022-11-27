@@ -7,6 +7,8 @@ npm i -D svg-sprite-loader
 ## Reference
 
 * https://juejin.cn/post/6844903517564436493
+* https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/xlink:href#use
+* https://cloud.tencent.com/developer/section/1424047
 
 ## svg在chrome显示正常
 
